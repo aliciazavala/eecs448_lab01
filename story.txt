@@ -1,8 +1,4 @@
 A long time ago, in a galaxy far, far away ...
-<<<<<<< HEAD
-bABY YODA 	what THE what
-=======
 Okay, bABY YODA, I'm editing this line haha
->>>>>>> yoda
 Han Solo and chewy
 
